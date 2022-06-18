@@ -8,7 +8,7 @@
 
 ### 목차
 
-1. 함수형 인터페이스와 람다 ✔
+1. [함수형 인터페이스와 람다 ✔](https://github.com/by-gramm/java8study/tree/main/src/main/java/me/bygramm/java8study/Ch01)
 
 2. 인터페이스의 변화
 
