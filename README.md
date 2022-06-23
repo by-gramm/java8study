@@ -12,7 +12,7 @@
 
 2. [인터페이스의 변화 ✔](https://github.com/by-gramm/java8study/tree/master/src/main/java/me/bygramm/java8study/Ch02)
 
-3. Stream
+3. [Stream ✔](https://github.com/by-gramm/java8study/tree/master/src/main/java/me/bygramm/java8study/Ch03)
 
 4. Optional
 
