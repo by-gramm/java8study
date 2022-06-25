@@ -14,7 +14,7 @@
 
 3. [Stream ✔](https://github.com/by-gramm/java8study/tree/master/src/main/java/me/bygramm/java8study/Ch03)
 
-4. Optional
+4. [Optional ✔](https://github.com/by-gramm/java8study/tree/master/src/main/java/me/bygramm/java8study/Ch04)
 
 5. Date와 Time
 
