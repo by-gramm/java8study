@@ -16,7 +16,7 @@
 
 4. [Optional ✔](https://github.com/by-gramm/java8study/tree/master/src/main/java/me/bygramm/java8study/Ch04)
 
-5. Date와 Time
+5. [Date와 Time ✔](https://github.com/by-gramm/java8study/tree/master/src/main/java/me/bygramm/java8study/Ch05)
 
 6. CompletableFuture
 
