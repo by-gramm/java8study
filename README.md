@@ -20,5 +20,5 @@
 
 6. [CompletableFuture ✔](https://github.com/by-gramm/java8study/tree/master/src/main/java/me/bygramm/java8study/Ch06)
 
-7. ETC
+7. [ETC ✔](https://github.com/by-gramm/java8study/tree/master/src/main/java/me/bygramm/java8study/Ch06)
 
